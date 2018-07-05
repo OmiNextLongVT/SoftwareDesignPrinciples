@@ -1,8 +1,9 @@
 # SOLID
 
-1. S : **Single responsibility principle**
-    > There should never be more than one reason for a class to change  
-    > (Một class chỉ nên có một nhiệm vụ duy nhất)
+**S: Single responsibility principle**
+    
+> There should never be more than one reason for a class to change  
+> (Một class chỉ nên có một nhiệm vụ duy nhất)
 
     **Wrong:**
     ```swift
